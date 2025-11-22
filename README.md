@@ -48,3 +48,10 @@ I’m a technology student and aspiring developer with a focus on **Generative A
 ---
 
 > I’m passionate about **collaborations and challenging projects**, especially those that involve **GenAI** and **innovative digital solutions**.
+
+<br>
+<p align="center">
+  <a href="https://github.com/luanatxds/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanatxds&layout=donut&theme=dracula" />
+  <a/>
+</p>
